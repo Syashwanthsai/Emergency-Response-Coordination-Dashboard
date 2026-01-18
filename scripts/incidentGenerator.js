@@ -1,0 +1,1 @@
+console.log("Incident generator running");
